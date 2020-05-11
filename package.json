@@ -1,8 +1,15 @@
 {
     "name": "rose-pine-next",
-    "displayName": "rose-pine-next",
+    "displayName": "Rosé Pine Next",
     "description": "Customized Rosé Pine Theme Color for VS Code",
     "version": "0.0.1",
+    "publisher": "csilva2810",
+    "author": "Carlos Silva [@csilva2810]",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/csilva2810/rose-pine-next.git"
+    },
     "engines": {
         "vscode": "^1.45.0"
     },
