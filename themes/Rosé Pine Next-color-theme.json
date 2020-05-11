@@ -430,7 +430,7 @@
     {
       "scope": ["constant"],
       "settings": {
-        "foreground": "#5d8da4"
+        "foreground": "#77a4b9"
       }
     },
     {
@@ -481,7 +481,7 @@
     {
       "scope": ["keyword"],
       "settings": {
-        "foreground": "#5d8da4"
+        "foreground": "#77a4b9"
       }
     },
     {
@@ -505,7 +505,7 @@
     {
       "scope": ["punctuation.accessor"],
       "settings": {
-        "foreground": "#5d8da4"
+        "foreground": "#77a4b9"
       }
     },
     {
@@ -523,7 +523,7 @@
     {
       "scope": ["storage.type", "storage.modifier"],
       "settings": {
-        "foreground": "#5d8da4"
+        "foreground": "#77a4b9"
       }
     },
     {
