@@ -1,28 +1,33 @@
 {
-    "name": "rose-pine-next",
-    "displayName": "Rosé Pine Next",
-    "description": "Customized Rosé Pine Theme Color for VS Code",
-    "version": "0.0.1",
-    "publisher": "csilva2810",
-    "author": "Carlos Silva [@csilva2810]",
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/csilva2810/rose-pine-next.git"
-    },
-    "engines": {
-        "vscode": "^1.45.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Rosé Pine Next",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Rosé Pine Next-color-theme.json"
-            }
-        ]
-    }
+	"name": "rose-pine-next",
+	"displayName": "Rosé Pine Next",
+	"description": "Customized Rosé Pine Theme Color for VS Code",
+	"version": "0.0.1",
+	"publisher": "csilva2810",
+	"author": "Carlos Silva [@csilva2810]",
+	"license": "MIT",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/csilva2810/rose-pine-next.git"
+	},
+	"engines": {
+		"vscode": "^1.45.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Rosé Pine Next",
+				"uiTheme": "vs-dark",
+				"path": "./themes/Rosé Pine Next-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "0dd3a9b4-f90f-4b39-b7f4-7bc6fb5bbe8f",
+		"publisherDisplayName": "csilva2810",
+		"publisherId": "e36400ac-c20c-401c-aabf-f0006bcb3ebb"
+	}
 }
